@@ -26,6 +26,7 @@ public class User implements Serializable {
 	private Long id;   
 	
 	private String firstname;
+	//test
 	
 	private String lastName;
 	
